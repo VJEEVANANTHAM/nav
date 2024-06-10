@@ -1,5 +1,5 @@
 import './App.css';
-// import HeroImage from './HeroImages/HeroImage';
+import HeroImage from './HeroImages/HeroImage';
 import Navbar from "./Navbars/Navbar"
 function App() {
   return (
